@@ -1,3 +1,6 @@
+// npm install --save-dev jest @babel/preset-env @babel/preset-react eslint-plugin-jest
+// npm install --save-dev deep-freeze
+
 {
   "presets": [
     "@babel/preset-env",
